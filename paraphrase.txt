@@ -1,0 +1,706 @@
+Rare biomedical words	Paraphrase
+anticoagulation	hindering the clotting of blood
+propofol	induce and maintain anesthesia sedation
+tamponade	stop bleeding
+hyperkalemia	high concentration of potassium in the blood
+ketoacidosis	acidosis resulting from increased levels of ketone bodies in the blood
+amiodarone	treat life-threatening ventricular arrhythmias
+malleolus	tibia at the level of the ankle
+psoas	either of two internal muscles of the loin
+gastrostomy	the surgical formation of an opening through the abdominal wall into the stomach
+adenopathy	any disease enlargement involving glandular tissue
+hemiparesis	muscular weakness partial paralysis restricted to one side of the body
+lymphadenectomy	surgical removal of a lymph node
+hydrops	edema
+transesophageal	passing through performed by way of the esophagus
+laminectomy	surgical removal of the posterior arch of a vertebra
+levofloxacin	a broad-spectrum antibacterial agent that is the levorotatory isomer of ofloxacin
+supraglottic	situated occurring above the glottis
+nephrolithiasis	a condition marked by the presence of renal calculi
+hypoalbuminemia	hypoproteinemia marked by reduction in serum albumins
+proctitis	inflammation of the anus and rectum
+cardiomegaly	enlargement of the heart
+labetalol	treat hypertension
+chorioamnionitis	inflammation of the fetal membranes
+multinodular	having many nodules
+hematemesis	the vomiting of blood
+melena	the passage of dark tarry stools containing decomposing blood
+anticoagulated	 hindering the clotting of blood
+hyperemesis	excessive vomiting
+nondiagnostic	not diagnostic
+multivessel	affecting more than one blood vessel
+extubated	the removal of a tube especially from the larynx after intubation
+osa	obstructive sleep apnea
+thoracoscopy	examination of the chest and especially the pleural cavity by means of a thoracoscope
+orthopnea	difficulty in breathing when lying down and is relieved upon changing to an upright position
+ostial	an ostium
+macrocephaly	the quality state of being macrocephalous
+transbronchial	occurring performed by way of a bronchus
+intertrochanteric	situated, performed, occurring between trochanters
+aztreonam	a synthetic monobactam antibiotic used especially against gram-negative bacteria
+infrarenal	situated occurring below the kidneys
+substernal	situated perceived behind below the sternum
+gastrinoma	a tumor that often involves blood vessels, usually occurs in the pancreas duodenums
+desaturated	to cause to become unsaturated
+hemoperitoneum	blood in the peritoneal cavity
+opacified	opaque radiopaque
+phenoxybenzamine	treats hypertension and sweating due to pheochromocytoma
+euvolemic	normovolemia
+urosepsis	sepsis caused by an infection originating in the urinary tract
+asd	autism spectrum disorder
+duodenitis	inflammation of the duodenum
+enddiastolic	in the moment immediately preceding contraction of the heart
+coumadin	warfarin
+akinesis	akinesia
+asystolic	a condition of weakening cessation of systole
+npo	nothing by mouth
+hsv	either of two herpesviruses that cause herpes simplex
+hcv	hepatitis c virus
+fecalith	a concretion of dry compact feces formed in the intestine vermiform appendix
+mra	magnetic resonance angiogram
+pitocin	oxytocin
+cardioverted	to subject to cardioversion
+sbp	systolic blood pressure
+hct	hematocrit
+bnp	brain natriuretic peptide
+lasix	furosemide
+bactrim	sulfamethoxazole and trimethoprim
+pvd	peripheral vascular disease
+esrd	end-stage renal disease
+tegretol	carbamazepine
+dvt	deep vein thrombosis
+kussmaul	abnormal deep, rapid, labored breathing
+decadron	dexamethasone
+depakote	divalproex sodium
+effexor	the hydrochloride of venlafaxine
+levophed	norepinephrine
+vtach	ventricular tachycardia
+mo	month
+hr	hour
+ie	that is
+pt	patient
+wo	without
+neg	negative
+uti	urinary tract infection
+adm	administration
+abd	abdomen
+cns	central nervous system
+bmi	body mass index
+eeg	electroencephalogram
+psa	prostate-specific antigen
+cpr	cardiopulmonary resuscitation
+tsh	thyroid-stimulating hormone
+hosp	hospital
+ecg	electrocardiogram
+ppd	postpaid
+icu	intensive care unit
+wbc	white blood cell
+ekg	electrocardiogram
+gerd	gastroesophageal reflux disease
+ccu	cardiac care unit
+chf	congestive heart failure
+cva	cerebrovascular accident
+hgb	hemoglobin
+pmh	production per man-hour
+utis	urinary tract infection
+cabg	coronary artery bypass graft
+pfts	pulmonary function tests
+copd	chronic obstructive pulmonary disease
+ventricular	being a ventricle
+morphology	a branch of biology that deals with the form and structure of animals and plants
+chemotherapy	the therapeutic use of chemical agents to treat disease
+medial	mean, average
+bowel	intestine, gut
+proximal	situated close to
+ventilation	the act process of ventilating
+antibiotics	a substance able to inhibit kill microorganisms
+venous	full of veins
+tenderness	a tender quality condition
+diffuse	being at once verbose and ill-organized
+benign	not threaten health life
+nausea	vomit
+abdomen	body between the thorax and the pelvis
+flap	a stroke with something broad
+stimulated	to excite to activity growth to greater activity
+tolerate	to allow to be to be done without prohibition, hindrance, contradiction
+rim	brink
+hepatic	supplying, draining the liver
+ambulance	a vehicle equipped for transporting the injured sick
+chloride	a compound of chlorine with another element group
+arteries	any of the tubular branching muscular
+biopsy	the removal and examination of tissue, cells, fluids from the living body
+rash	an eruption on the body
+premature	happening, arriving, existing, performed before the proper, usual, intended time
+strokes	to rub gently in one direction
+warmed	having giving out heat to a moderate adequate degree
+diarrhea	abnormally frequent intestinal evacuations with more less fluid stools
+rupture	breach of peace concord
+arthritis	inflammation of joints due to infectious, metabolic, constitutional causes
+gastric	of relating to the stomach
+backup	one that serves as a substitute support
+complaining	to express grief, pain, discontent
+lymph	the sap of plants
+asthma	a chronic lung disorder that is marked by recurring episodes of airway obstruction
+duct	a bodily tube vessel especially when carrying the secretion of a gland
+emergent	arising unexpectedly
+awoke	past tense and past participle of awake
+aortic	the great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body
+hepatitis	inflammation of the liver
+prostate	prostate gland
+congenital	existing at dating from birth
+pneumonia	an acute disease that is marked by inflammation of lung tissue
+prognosis	the prospect of recovery as anticipated from the usual course of disease peculiarities of the case
+newborn	recently born
+agitated	troubled in mind
+edema	an abnormal infiltration and excess accumulation of serous fluid in connective tissue cavity
+postoperative	following a surgical operation
+lobe	a curved rounded projection division
+heartbeat	one complete pulsation of the heart
+colon	the part of the large intestine that extends from the cecum to the rectum
+antibiotic	a substance able to inhibit kill microorganisms
+transplant	to lift and reset (a plant) in another soil situation
+anesthesia	loss of sensation with without loss of consciousness
+coli	saddle
+gastrointestinal	stomach and intestine
+myocardial	the middle muscular layer of the heart wall
+murmur	grumbling
+aching	that aches
+interim	an intervening time
+pelvic	located in near the pelvis
+resection	the surgical removal of part of an organ structure
+hemorrhage	a copious heavy discharge of blood from the blood vessels
+illnesses	sickness
+bile	either of two humors associated in old physiology with irascibility and melancholy
+complication	complexity, intricacy
+sinus	cavity, hollow
+flank	the fleshy part of the side between the ribs and the hip
+clip	encompass
+bypass	a passage to one side
+extremity	the farthest most remote part, section, point
+progressed	a royal journey marked by pomp and pageant
+alcoholic	caused by alcohol
+sleepy	ready to fall asleep
+necrosis	usually localized death of living tissue
+vaginal	affecting the genital vagina
+fetus	an unborn unhatched vertebrate especially after attaining the basic structural plan of its kind
+intravenous	situated, performed, occurring within entering by way of a vein
+wheelchair	a chair mounted on wheels especially for the use of disabled persons
+audible	heard capable of being heard
+pancreatic	a large lobulated gland of vertebrates that secretes digestive enzymes and the hormones insulin and glucagon
+anemia	a condition in which the blood is deficient in red blood cells, hemoglobin, total volume
+atrial	the central room of a roman house
+depletion	to empty of a principal substance
+electrolyte	a nonmetallic electric conductor in which current is carried by the movement of ions
+lymphoma	a usually malignant tumor of lymphoid tissue
+capillary	resembling a hair especially in slender elongated form
+gait	a manner of walking moving on foot
+blindness	sightless
+symptomatic	being a symptom of a disease
+dopamine	occurs especially as a neurotransmitter in the brain
+wedge	a piece of a substance (such as wood iron) that tapers to a thin edge and is used for splitting wood and rocks, raising heavy bodies, for tightening by being driven into something
+stenosis	a narrowing constriction of the diameter of a bodily passage orifice
+sob	to catch the breath audibly in a spasmodic contraction of the throat
+femoral	femur thigh
+shuttle	a device used in weaving for passing the thread of the weft between the threads of the warp
+infarction	injury death of tissue
+obese	having excessive body fat
+evacuation	the act process of evacuating
+influenza	an acute, highly contagious, respiratory disease caused by any of three orthomyxoviruses
+narrowing	of slender width
+sulfate	a salt ester of sulfuric acid
+saline	consisting of containing salt
+dizzy	foolish, silly
+neonatal	affecting the newborn and especially the human infant during the first month after birth
+coughing	to expel air from the lungs suddenly with a sharp
+metastatic	change of position, state, form
+uterine	born of the same mother but by a different father
+ventral	the belly, abdominal
+perfusion	suffuse
+overweight	weight over and above what is required allowed
+respiration	the movement of air dissolved gases into and out of the lungs
+exacerbated	to make more violent, bitter, severe
+headaches	pain in the head
+flare	a fire blaze of light used especially to signal, illuminate, attract attention
+ventricle	a cavity of a bodily part organ
+thrombosis	the formation presence of a blood clot within a blood vessel
+exertion	the act an instance of exerting
+pollen	a mass of microspores in a seed plant appearing usually as a fine dust
+ischemic	deficient supply of blood to a body part that is due to obstruction of the inflow of arterial blood
+lumbar	loins the vertebrae between the thoracic vertebrae and sacrum
+bleed	to emit lose blood
+toxin	poisonous substances
+ischemia	deficient supply of blood to a body part
+extremities	the farthest most remote part, section, point
+transfusion	an act, process, instance of transfusing
+flu	influenza
+abscess	a localized collection of pus surrounded by inflamed tissue
+hypotension	abnormally low blood pressure
+orally	in spoken words
+interstitial	occurring in being an interval intervening space segment
+depleted	to empty of a principal substance
+aorta	the great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body
+melanoma	a tumor containing dark pigment
+tachycardia	rapid heart action
+neurologic	a branch of medicine concerned especially with the structure, function, and diseases of the nervous system
+circumference	the perimeter of a circle
+intracranial	existing occurring within the cranium
+scant	excessively frugal
+delirium	an acute mental disturbance characterized by confused thinking and disrupted attention usually accompanied by disordered speech and hallucinations
+gestation	the carrying of young in the uterus
+contractions	the action process of contracting
+facet	any of the definable aspects that make up a subject (as of contemplation) an object (as of consideration)
+ulcer	a break in skin mucous membrane with loss of surface tissue, disintegration and necrosis of epithelial tissue, and often pus
+anesthetic	capable of producing anesthesia
+sepsis	a potentially life-threatening, systemic response of the immune system that results from the spread of pathogenic agents (such as bacteria viruses) and their toxins to the bloodstream from a localized infection (as of the lungs), that involves both inflammatory and immunosuppressive activity, that is marked especially by fever, chills, rapid heart rate and breathing, fatigue, confusion, increased blood coagulation, hypotension, impaired microcirculation, and organ dysfunction, and that may progress to septic shock
+outpatient	a patient who is not hospitalized overnight but who visits a hospital, clinic, associated facility for diagnosis treatment
+ulcers	a break in skin mucous membrane with loss of surface tissue, disintegration and necrosis of epithelial tissue
+dizziness	foolish, silly
+prenatal	occurring, existing, performed, used before birth
+dialysis	the separation of substances in solution by means of their unequal diffusion through semipermeable membranes
+malignancy	the quality state of being malignant
+dc	a medical procedure in which the uterine cervix is dilated and a curette is inserted into the uterus to scrape away the endometrium (as for the diagnosis treatment of abnormal bleeding for surgical abortion during the early part of the second trimester of pregnancy) : dilation and curettage
+sedation	the inducing of a relaxed easy state especially by the use of sedatives
+preoperative	occurring before a surgical operation
+steroid	any of various compounds containing a 17-carbon 4-ring system and including the sterols and numerous hormones (such as anabolic steroids corticosteroids) and glycosides
+menstrual	of relating to menstruation
+morphine	a bitter crystalline addictive narcotic base c17h19no3 that is the principal alkaloid of opium and is used in the form of a soluble salt (such as a hydrochloride a sulfate) as an analgesic and sedative
+metastasis	change of position, state, form
+discontinued	no longer produced provided
+esophageal	a muscular tube that conveys food from the mouth to the stomach and that in humans is about nine inches (23 centimeters) long and passes from the pharynx down the neck between the trachea and the spinal column and behind the left bronchus where it pierces the diaphragm slightly to the left of the middle line and joins the cardiac end of the stomach
+neuropathy	damage, disease, dysfunction of one more nerves especially of the peripheral nervous system that is typically marked by burning shooting pain, numbness, tingling, muscle weakness atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, vitamin deficiency
+stair	a series of steps flights of steps for passing from one level to another —often used in plural but singular plural in construction
+nocturnal	occurring in the night
+constipation	abnormally delayed infrequent passage of usually dry hardened feces
+systolic	a rhythmically recurrent contraction
+rectal	relating to, affecting, being near the rectum
+worsening	to make worse
+abnormality	something abnormal
+reflux	a flowing back
+malnutrition	faulty nutrition due to inadequate unbalanced intake of nutrients their impaired assimilation utilization
+excision	the act procedure of removing by as if by cutting out
+stent	a short narrow metal plastic tube often in the form of a mesh that is inserted into the lumen of an anatomical vessel (such as an artery a bile duct) especially to keep a previously blocked passageway open
+hypoxia	a deficiency of oxygen reaching the tissues of the body
+doe	the adult female of various mammals (such as a deer, rabbit, kangaroo) of which the male is called buck
+rue	to feel penitence, remorse, regret for
+labored	produced performed with labor
+squamous	covered with consisting of scales
+esophagus	a muscular tube that conveys food from the mouth to the stomach and that in humans is about nine inches (23 centimeters) long and passes from the pharynx down the neck between the trachea and the spinal column and behind the left bronchus where it pierces the diaphragm slightly to the left of the middle line and joins the cardiac end of the stomach
+midline	a median line
+parietal	of relating to the walls of a part cavity
+pleural	the delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side
+stools	a seat usually without back arms supported by three four legs by a central pedestal
+platelets	a minute flattened body (as of ice a mineral)
+puncture	an act of puncturing
+cirrhosis	widespread disruption of normal liver structure by fibrosis and the formation of regenerative nodules that is caused by any of various chronic progressive conditions affecting the liver (such as long-term alcohol abuse hepatitis)
+hospitalization	to place in a hospital as a patient
+inpatient	a hospital patient who receives lodging and food as well as treatment
+pea	a variable annual eurasian vine (pisum sativum) of the legume family that is cultivated especially for its rounded smooth wrinkled edible protein-rich seeds
+apical	situated at an apex
+preterm	brought forth by premature birth
+heparin	a mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt
+mitral	resembling a miter
+fibrillation	an act process of forming fibers fibrils
+incontinence	the quality state of being incontinent 
+overdose	too great a dose
+labs	laboratory
+aneurysm	an abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall
+biliary	conveying bile
+intoxicated	affected by alcohol drugs
+concussion	a stunning, damaging, shattering effect from a hard blow
+pancreatitis	inflammation of the pancreas
+prematurely	happening, arriving, existing, performed before the proper, usual, intended time
+sedentary	not migratory
+osteoporosis	a condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility
+effusion	an act of effusing
+grafting	a grafted plant
+lupus	any of several diseases characterized by skin lesions
+umbilical	used at the navel
+cerebellar	a large dorsally projecting part of the brain concerned especially with the coordination of muscles and the maintenance of bodily equilibrium, situated between the brain stem and the back of the cerebrum, and formed in humans of two lateral lobes and a median lobe
+peritoneal	the smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera
+epidural	situated upon administered placed outside the dura mater
+computerized	to carry out, control, produce by means of a computer
+gestational	the carrying of young in the uterus
+simplex	simple, single
+heave	lift, raise
+diastolic	a rhythmically recurrent expansion
+chills	a sensation of cold accompanied by shivering (as due to illness) — usually plural
+colitis	inflammation of the colon
+femur	the proximal bone of the hind lower limb that extends from the hip to the knee —called also thighbone
+hernia	a protrusion of an organ part (such as the intestine) through connective tissue through a wall of the cavity (as of the abdomen) in which it is normally enclosed —called also rupture
+fistula	an abnormal passage that leads from an abscess hollow organ part to the body surface from one hollow organ part to another and that may be surgically created to permit passage of fluids secretions
+spiked	having an inflorescence that is a spike
+identifier	one that identifies
+exerts	to put forth
+septic	causing putrefaction
+percutaneous	effected, occurring, performed through the skin
+sluggish	averse to activity exertion
+infiltrate	to enter become established in gradually unobtrusively usually for subversive purposes
+fluctuating	changing frequently and uncertainly
+surgeries	a branch of medicine concerned with diseases and conditions requiring amenable to operative manual procedures
+herpes	any of several inflammatory diseases of the skin caused by herpesviruses and characterized by clusters of vesicles
+cardiomyopathy	any of several structural functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart
+copious	yielding something abundantly
+rectum	the terminal part of the intestine from the sigmoid colon to the anus
+intubation	the introduction of a tube into a hollow organ part (such as the trachea stomach) especially to maintain an open passage gain access to the interior
+mandible	jaw
+fecal	constituting feces
+lactate	a salt ester of lactic acid
+numbness	unable to feel anything in a particular part of your body especially as a result of cold anesthesia
+embolism	the insertion of one more days in a calendar
+vestibular	functioning as a vestibule
+encephalopathy	a disease of the brain
+chipped	a small usually thin and flat piece (as of wood stone) cut, struck, flaked off
+hemorrhagic	a copious heavy discharge of blood from the blood vessels
+rector	one that directs
+foramen	a small opening, perforation, orifice
+laryngeal	used on the larynx
+glaucoma	a disease of the eye marked by increased pressure within the eyeball that can result in damage to the optic disk and gradual loss of vision
+erythema	abnormal redness of the skin mucous membranes due to capillary congestion (as in inflammation)
+clot	a portion of a substance adhering together in a thick nondescript mass (as of clay gum)
+thrombocytopenia	persistent decrease in the number of platelets in the blood that is often associated with hemorrhagic conditions
+jaundice	yellowish pigmentation of the skin, tissues, and body fluids caused by the deposition of bile pigments
+malaise	an indefinite feeling of debility lack of health often indicative of accompanying the onset of an illness
+ejection	to throw out especially by physical force, authority, influence
+dyspnea	difficult labored respiration
+lethargy	abnormal drowsiness
+angina	a disease marked by spasmodic attacks of intense suffocative pain
+liter	a metric unit of capacity equal to one cubic decimeter
+hemodynamic	involving hemodynamics
+fatigued	drained of strength and energy
+taper	to become progressively smaller toward one end
+gyrus	a convoluted ridge between anatomical grooves
+nutmeg	an aromatic seed produced by an evergreen tree (myristica fragrans of the family myristicaceae, the nutmeg family) native to the moluccas
+ruptured	breach of peace concord
+hematoma	a mass of usually clotted blood that forms in a tissue, organ, body space as a result of a broken blood vessel
+smoker	someone something that smokes
+leaflet	one of the divisions of a compound leaf
+ovaries	one of the typically paired essential female reproductive organs that produce eggs and in vertebrates female sex hormones
+nodule	a small mass of rounded irregular shape
+osteoarthritis	a common form of arthritis typically with onset during middle old age that is characterized by progressive degenerative changes in the cartilage of one more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation oa
+uncomplicated	not complex
+cataract	a clouding of the lens of the eye of its surrounding transparent membrane that obstructs the passage of light
+papillary	resembling a papilla nipple-shaped projection, mass, structure
+neoplasm	tumor
+folate	folic acid
+warfarin	a crystalline anticoagulant coumarin derivative c19h16o4 that inhibits the production of prothrombin by vitamin k and is used as a rodent poison and in medicine
+thalamus	the largest subdivision of the diencephalon that consists chiefly of an ovoid mass of nuclei in each lateral wall of the third ventricle and serves chiefly to relay impulses and especially sensory impulses to and from the cerebral cortex
+bronchial	of relating to the bronchi their ramifications in the lungs
+hypothyroidism	deficient activity of the thyroid gland
+antiviral	acting, effective, directed against viruses
+ambulatory	able to walk about and not bedridden
+comorbidities	existing simultaneously with and usually independently of another medical condition
+neuropsychological	a science concerned with the integration of psychological observations on behavior and the mind with neurological observations on the brain and nervous system
+dilatation	the state of being expanded widened
+vasculitis	inflammation of a blood lymph vessel
+slurred	an insulting disparaging remark innuendo
+endoscopy	an illuminated usually fiber-optic flexible rigid tubular instrument for visualizing the interior of a hollow organ part (such as the bladder esophagus) for diagnostic therapeutic purposes that typically has one more channels to enable passage of instruments (such as forceps scissors)
+liters	a metric unit of capacity equal to one cubic decimeter
+overloaded	to load to excess
+blocker	a solid piece of material (such as rock wood) that has flat sides and is usually square rectangular in shape
+mammary	mammae
+hypertensive	affected with caused by hypertension
+colonic	of relating to the colon of the intestine
+sweats	perspire
+thrombus	a clot of blood formed within a blood vessel and remaining attached to its place of origin
+hepatocellular	of involving hepatocytes
+flexing	to bend especially repeatedly
+irregularly	not being acting in accord with laws, rules, established custom
+duodenum	the first part of the small intestine extending from the pylorus to the jejunum
+arrhythmia	an alteration in rhythm of the heartbeat either in time force
+catheterization	the use of introduction of a catheter (as in into the bladder, trachea, heart)
+hemolytic	lysis of red blood cells with liberation of hemoglobin
+febrile	marked caused by fever
+uneventful	marked by no noteworthy untoward incidents
+pericardial	affecting the pericardium
+cesarean	cesarean section
+palpation	to examine by touch especially medically
+sputum	matter expectorated from the respiratory system and especially the lungs that is composed of mucus but may contain pus, blood, fibrin, microorganisms (such as bacteria) in diseased states
+cardiopulmonary	of relating to the heart and lungs
+ascites	abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen
+stents	a short narrow metal plastic tube often in the form of a mesh that is inserted into the lumen of an anatomical vessel (such as an artery a bile duct) especially to keep a previously blocked passageway open
+watermelon	a large oblong roundish fruit with a hard green white rind often striped variegated, a sweet watery pink, yellowish, red pulp, and usually many seeds
+ketones	any of a class of organic compounds (such as acetone) characterized by a carbonyl group attached to two carbon atoms
+medic	any of a genus (medicago) of leguminous herbs (such as alfalfa)
+enteric	affecting the intestines
+fevers	a rise of body temperature above the normal
+dysphagia	difficulty in swallowing
+hyperglycemia	excess of sugar in the blood
+congestive	to concentrate in a small narrow space
+vasculature	the blood vessels arrangement of blood vessels in an organ part
+syncope	loss of consciousness resulting from insufficient blood flow to the brain
+diuretic	tending to increase the excretion of urine
+vomited	to disgorge the stomach contents
+subarachnoid	under the arachnoid membrane
+proliferative	to grow by rapid production of new parts, cells, buds, offspring
+neuropathic	damage, disease, dysfunction of one more nerves especially of the peripheral nervous system that is typically marked by burning shooting pain, numbness, tingling, muscle weakness atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, vitamin deficiency
+hydrocephalus	an abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline
+vaccinated	to administer a vaccine to usually by injection
+transitioned	a change from one state condition to another
+immunocompromised	having the immune system impaired weakened (as by drugs illness)
+embolization	the process state in which a blood vessel organ is obstructed by the lodgment of a material mass (such as an embolus)
+carpal	of relating to the carpus
+hysterectomy	surgical removal of the uterus
+distended	enlarged, expanded, stretched out (as from internal pressure)
+exacerbation	to make more violent, bitter, severe
+hypoxic	affected with hypoxia
+ophthalmic	situated near the eye
+neonate	a newborn child
+sigmoid	curved like the letter c
+endotracheal	placed within the trachea
+obstructing	to block close up by an obstacle
+mediastinal	the space in the chest between the pleural sacs of the lungs that contains all the tissues and organs of the chest except the lungs and pleurae
+duodenal	the first part of the small intestine extending from the pylorus to the jejunum
+deceleration	to reduce the speed
+emphysema	a condition characterized by air-filled expansions of body tissues
+atresia	absence closure of a natural passage of the body
+cerebrovascular	of involving the cerebrum and the blood vessels supplying it
+zoster	shingles
+hemodialysis	dialysis
+dexamethasone	a synthetic glucocorticoid c22h29fo5 used especially as an anti-inflammatory agent
+obtuse	not pointed acute
+bilaterally	affecting reciprocally two nations parties
+allergens	a substance (such as pollen) that induces allergy
+infiltrates	to enter become established in gradually unobtrusively usually for subversive purposes
+shingle	a small thin piece of building material often with one end thicker than the other for laying in overlapping rows as a covering for the roof sides of a building
+cataracts	a clouding of the lens of the eye of its surrounding transparent membrane that obstructs the passage of light
+proteinuria	the presence of excess protein in the urine
+atherosclerotic	an arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries
+appendicitis	inflammation of the vermiform appendix
+combative	marked by eagerness to fight contend
+erectile	capable of undergoing physiological erection
+palpitations	to beat rapidly and strongly
+gastroenteritis	inflammation of the lining membrane of the stomach and the intestines characterized especially by nausea, vomiting, diarrhea, and cramps
+vancomycin	effective against gram-positive bacteria
+hyperthyroidism	excessive functional activity of the thyroid gland
+subclavian	inserted into a part located under the clavicle
+sinusitis	inflammation of a sinus of the skull
+mastectomy	surgical removal of all part of the breast and sometimes associated lymph nodes and muscles
+herniation	to protrude through an abnormal body opening
+cramping	a painful involuntary spasmodic contraction of a muscle
+enteral	enteric
+distally	situated away from the point of attachment origin a central point especially of the body
+preeclampsia	a serious condition developing in late pregnancy that is characterized by a sudden rise in blood pressure, excessive weight gain, generalized edema, proteinuria, severe headache, and visual disturbances and that may result in eclampsia if untreated
+angioplasty	surgical repair recanalization of a blood vessel
+neuralgia	acute paroxysmal pain radiating along the course of one more nerves usually without demonstrable changes in the nerve structure
+antenatal	prenatal
+tracheostomy	the surgical formation of an opening into the trachea through the neck especially to allow the passage of air
+antihypertensive	a substance that is effective against high blood pressure
+cellulitis	diffuse and especially subcutaneous inflammation of connective tissue
+vitals	internal bodily organs (such as the heart, lungs, and brain) that are essential to life
+laceration	the act of lacerating
+porcine	suggesting swine
+multifactorial	a polygenic mode of inheritance dependent on a number of genes at different loci
+rubella	german measles
+lethargic	characterized by laziness lack of energy
+stenting	a short heading driven at right angles to a crosscut in a mining operation
+comatose	with coma
+prednisone	a glucocorticoid c21h26o5 that is a dehydrogenated analog of cortisone and is used as an anti-inflammatory agent, as an antineoplastic agent, and as an immunosuppressant
+antiplatelet	preventing inhibiting platelets from adhering to each other
+hypoxemia	deficient oxygenation of the blood
+distention	the act of distending the state of being distended especially unduly abnormally
+neurogenic	forming, originating in, controlled by nervous tissue
+hematuria	the presence of blood blood cells in the urine
+menopausal	the natural cessation of menstruation that usually occurs between the ages of 45 and 55
+colonoscopy	endoscopic examination of the colon
+pericarditis	inflammation of the pericardium
+distension	the act of distending the state of being distended especially unduly abnormally
+glomerulonephritis	acute chronic nephritis that involves inflammation of the capillaries of the renal glomeruli, has various causes (such as streptococcal infection, lupus, vasculitis) may be of unknown cause, and is marked especially by blood protein in the urine and by edema, and if untreated may lead to kidney failure
+rigors	harsh inflexibility in opinion, temper, judgment
+labile	readily continually undergoing chemical, physical, biological change breakdown
+thalamic	the largest subdivision of the diencephalon that consists chiefly of an ovoid mass of nuclei in each lateral wall of the third ventricle and serves chiefly to relay impulses and especially sensory impulses to and from the cerebral cortex
+hemorrhages	a copious heavy discharge of blood from the blood vessels
+peptic	relating to promoting digestion
+hematocrit	the ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation
+incisor	a front tooth typically adapted for cutting
+paroxysmal	a fit, attack, sudden increase recurrence of symptoms
+bacteremia	the presence of bacteria in the blood
+inhaler	a device by means of which medicinal material is inhaled
+migraines	a condition marked by recurring moderate to severe headache with throbbing pain that usually lasts from four hours to three days, typically begins on one side of the head but may spread to both sides, is often accompanied by nausea, vomiting, and sensitivity to light sound, and is sometimes preceded by an aura and is often followed by fatigue
+african	a native inhabitant of africa
+stoma	any of various small simple bodily openings especially in a lower animal
+gastroesophageal	involving the stomach and esophagus
+eclampsia	a convulsive state
+gastritis	inflammation especially of the mucous membrane of the stomach
+subdural	situated occurring beneath the dura mater between the dura mater and the arachnoid membrane
+polyp	the sessile form of cnidarian (such as a coral sea anemone) typically having a hollow cylindrical body closed and attached at one end and opening at the other by a central mouth surrounded by tentacles armed with nematocysts
+atropine	a racemic mixture of hyoscyamine obtained from any of various solanaceous plants (such as belladonna) and used especially in the form of its sulfate for its anticholinergic effects (such as pupil dilation inhibition of smooth muscle spasms)
+proximally	situated close to
+microns	micrometer
+ortho	orthochromatic
+diff	difference
+orthostatic	caused by an upright posture
+glioblastoma	a malignant rapidly growing astrocytoma of the central nervous system and usually of a cerebral hemisphere
+inferiorly	of poor quality
+cardiologist	the study of the heart and its action and diseases
+dyspepsia	indigestion
+preoperatively	occurring before a surgical operation
+epigastric	lying upon over the stomach
+emboli	an abnormal particle (such as an air bubble) circulating in the blood
+oropharyngeal	of relating to the oropharynx
+prematurity	happening, arriving, existing, performed before the proper, usual, intended time
+calculi	a method of computation calculation in a special notation (as of logic symbolic logic)
+saphenous	two chief superficial veins of the leg
+heaves	lift, raise
+thiamine	a vitamin c12h17n4oscl of the vitamin b complex that is essential to normal metabolism and nerve function and is widespread in plants and animals —called also vitamin b1
+cardiology	the study of the heart and its action and diseases
+angiogram	a radiograph made by angiography
+wu	a group of chinese dialects spoken principally in jiangsu and zhejiang provinces
+sternal	of relating to the sternum
+varices	an abnormally dilated swollen blood lymph vessel and especially a vein (as of the esophagus stomach)
+followup	the act an instance of following up
+posterolateral	posterior and lateral in position direction
+dorsolateral	involving both the back and the sides
+fib	a trivial childish lie
+lacuna	a blank space a missing part
+troponin	a protein of muscle that together with tropomyosin forms a regulatory protein complex controlling the interaction of actin and myosin and that when combined with calcium ions permits muscular contraction
+nephrotic	a noninflammatory disease of the kidneys chiefly affecting function of the nephrons
+anemic	relating to affected with anemia
+meld	to declare announce (a card combination of cards) for a score in a card game especially by placing face up on the table
+anoxic	affected with anoxia
+kilter	proper usual state condition
+lightheaded	mentally disoriented
+urinalysis	chemical analysis of urine
+fx	special effects
+cholecystectomy	surgical excision of the gallbladder
+esophagitis	inflammation of the esophagus
+goiter	an enlargement of the thyroid gland visible as a swelling of the front of the neck
+transiently	passing especially quickly into and out of existence
+cad	a bus conductor
+echocardiogram	a visual record made by echocardiography
+contusion	injury to tissue usually without laceration
+neurosurgery	surgery of nervous structures (such as nerves, the brain, the spinal cord)
+bronchoscopy	a usually flexible endoscope for inspecting passing instruments into the bronchi (as to obtain tissue for biopsy)
+diplopia	a disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision
+scrotal	the external pouch that in most mammals contains the testes
+hypotensive	characterized by due to hypotension
+diuresis	an increased excretion of urine
+hypoglycemic	abnormal decrease of sugar in the blood
+hyperlipidemia	the presence of excess fat lipids in the blood
+dysarthria	difficulty in articulating words due to disease of the central nervous system
+avascular	having few no blood vessels
+saturating	to satisfy fully
+enteritis	inflammation of the intestines and especially of the human ileum
+embolic	of relating to an embolus embolism
+circumflex	characterized by the pitch, quantity, quality indicated by a circumflex
+nephrectomy	the surgical removal of a kidney
+agenesis	lack failure of development (as of a body part)
+hilar	located near a hilum
+suctioning	the act process of sucking
+claudication	the quality state of being lame
+pheochromocytoma	a tumor that is derived from chromaffin cells and is usually associated with paroxysmal sustained hypertension —called also pheo
+chlamydia	any of a genus (chlamydia, family chlamydiaceae) of spherical gram-negative intracellular bacteria
+tachypnea	abnormally rapid breathing
+emesis	an act instance of vomiting
+bursitis	inflammation of a bursa (as of the shoulder elbow)
+diverticulitis	inflammation of a diverticulum
+colostomy	surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall
+thyroidectomy	surgical removal of thyroid gland tissue
+hypercholesterolemia	the presence of excess cholesterol in the blood
+dysuria	difficult painful discharge of urine
+chemistries	a science that deals with the structure and properties of substances and with the changes that they go through
+hemodynamically	involving hemodynamics
+diaphoresis	perspiration
+curettage	a surgical scraping cleaning by means of a curette
+lobectomy	surgical removal of a lobe of an organ (such as a lung) gland (such as the thyroid)
+neurologically	a branch of medicine concerned especially with the structure, function, and diseases of the nervous system
+abruption	a sudden breaking off away
+uri	canton of central switzerland south of lake of lucerne
+hemorrhaging	a copious heavy discharge of blood from the blood vessels
+coagulated	to cause to become viscous thickened into a coherent mass
+appendectomy	surgical removal of the vermiform appendix
+strep	streptococcus
+hiv	either of two retroviruses that infect and destroy helper t cells of the immune system causing the marked reduction in their numbers that is diagnostic of aids
+dermatologic	a branch of medicine dealing with the skin, its structure, functions, and diseases
+hematology	a medical science that deals with the blood and blood-forming organs
+downsized	to reduce in size
+diltiazem	a calcium channel blocker c22h26n2o4s used especially in the form of its hydrochloride as a coronary vasodilator
+pylorus	the muscular opening from the vertebrate stomach into the intestine
+readmitted	to admit (someone) again
+metoprolol	a beta-blocker c15h25no3 used in the form of its succinate and tartrate especially to treat hypertension and angina pectoris
+nifedipine	a calcium channel blocker c17h18n2o6 that is a coronary vasodilator used especially in the treatment of angina pectoris
+hypothermic	subnormal temperature of the body
+herpetic	any of several inflammatory diseases of the skin caused by herpesviruses and characterized by clusters of vesicles
+succinylcholine	a basic compound that is used intravenously chiefly in the form of a hydrated chloride c14h30cl2n2o4·2h2o as a muscle relaxant in surgery
+decelerations	to reduce the speed
+lightheadedness	mentally disoriented
+mrs	plural of madam
+palpitation	a rapid pulsation
+urologist	a physician who specializes in the urinary urogenital tract
+antacid	an agent that counteracts neutralizes acidity
+orthotropic	having the longer axis more less vertical
+hiatal	involving a hiatus
+tonsillectomy	the surgical removal of the tonsils
+gallstone	a calculus (as of cholesterol) formed in the gallbladder biliary passages
+lithotripsy	the breaking (as by shock waves crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided washed out
+hepatoma	a usually malignant tumor of the liver
+hypogastric	of relating to the lower median region of the abdomen
+varicocele	a varicose enlargement of the veins of the spermatic cord
+lumpectomy	excision of a breast tumor with a limited amount of associated tissue
+antihypertensives	a substance that is effective against high blood pressure
+vaginally	affecting the genital vagina
+arytenoid	relating to being either of two small laryngeal cartilages to which the vocal cords are attached
+immunosuppressants	an agent that suppresses the immune response
+normotensive	having normal blood pressure
+pleuritic	inflammation of the pleura that is typically characterized by sudden onset, painful and difficult respiration, and exudation of fluid fibrinous material into the pleural cavity
+metastasized	to spread grow by as if by metastasis
+atenolol	in the treatment of hypertension
+endometritis	inflammation of the endometrium
+nh	nihonium
+cholelithiasis	production of gallstones
+pressor	raising tending to raise blood pressure
+nasally	the nosepiece of a helmet
+afebrile	not marked by having a fever
+lyse	to cause to undergo lysis
+phos	a soup made of beef chicken broth and rice noodles
+sarcoid	any of various diseases characterized especially by the formation of nodules in the skin
+hemiplegic	total partial paralysis of one side of the body that results from disease of injury to the motor centers of the brain
+suctioned	the act process of sucking
+deconditioning	to cause extinction of (a conditioned response)
+diverticulosis	an intestinal disorder characterized by the presence of many diverticula
+apneic	affected by apnea
+cavitary	characterized by bodily cavitation
+diaphoretic	having the power to increase perspiration
+vomitus	material ejected by vomiting
+cath	catheterization
+bronchogenic	arising in by way of the air passages of the lungs
+thromboses	the formation presence of a blood clot within a blood vessel
+creat	an east indian herb (andrographis paniculata) having a juice that is a strong bitter tonic variously used in local medicine
+appy	appaloosa
+hemorrhoid	an abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal externally around the anus, that may be marked by bleeding, pain, itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually used in plural—called also piles
+postinfectious	occurring after and especially as a result of an infection
+decortication	the act process of removing the outer coverings (such as bark husks) from something (such as fiber seed)
+obtunded	to reduce the edge violence
+guaiac	guaiacum
+neonatology	a branch of medicine concerned with the care, development, and diseases of newborn infants
+troponins	a protein of muscle that together with tropomyosin forms a regulatory protein complex controlling the interaction of actin and myosin and that when combined with calcium ions permits muscular contraction
+acidotic	an abnormal condition characterized by reduced alkalinity of the blood and of the body tissues
+varix	an abnormally dilated swollen blood lymph vessel and especially a vein (as of the esophagus stomach)
+heartrate	the rate at which the heart beats
+xray	used as a code word for the letter x
+endstage	being occurring in the final stages of a terminal disease condition
+herm	a statue in the form of a square stone pillar surmounted by a bust head especially of hermes
+bacteremic	the presence of bacteria in the blood
+mri	magnetic resonance imaging
+lastname	surname
+foley	sound effects created for a film —usually used before another noun
+bicarb	sodium bicarbonate
+osh	city in southern kyrgyzstan on the border with uzbekistan population 238,000
+expectorating	to eject from the throat lungs by coughing hawking and spitting
+blowby	leakage of combustion gases between a piston and the cylinder wall into the crankcase in an automobile
+pda	a small handheld device equipped with a microprocessor that is used especially for storing and organizing personal information (such as addresses and schedules)
+hdl	a lipoprotein of blood plasma that is composed of a high proportion of protein with little triglyceride and cholesterol and that is correlated with reduced risk of atherosclerosis : good cholesterol
+pcp	phencyclidine
+canula	a small tube for insertion into a body cavity into a duct vessel
+ldl	a lipoprotein of blood plasma
+alzheimers	a degenerative brain disease of unknown cause that is the most common form of dementia, that usually starts in late middle age in old age, that results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood, and that is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid —abbreviation ad
+igg	a class of immunoglobulins including the most common antibodies circulating in the blood that facilitate the phagocytic destruction of microorganisms foreign to the body, that bind to and activate complement, and that are the only immunoglobulins to cross over the placenta from mother to fetus
+copd	chronic obstructive pulmonary disease
+dysphasic	loss of deficiency in the power to use understand language as a result of injury to disease of the brain
+afib	atrial fibrillation
+tpn	nadp
+lymphnodes	any of the rounded masses of lymphoid tissue that are surrounded by a capsule of connective tissue
+thusfar	at to a considerable distance in space
+mrsa	any of several strains of a bacterium (staphylococcus aureus) that are resistant to methicillin and related antibiotics (such as penicillin) and typically live harmlessly on skin and mucous membranes but may cause usually mild infections of the skin sometimes more severe infections (as of the blood, lungs, bones) especially in hospitalized immunocompromised individuals
+csection	cesarean section
+pcps	phencyclidine
+plavix	clopidogrel
